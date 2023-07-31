@@ -1,8 +1,8 @@
-<p align="center"><img src="./article-media/arweave-banner-xs.jpeg" width="500"/></p>
 
-# Decentralized music marketplace
 
-This repository contains the code neccessary to run a decentralized music marketplace app.
+# Songer A Decentralized music marketplace
+
+This repository contains the code neccessary to run Songer.
 
 - Users will be able to upload MP3 files and list them for sale by a price.
 - The songs will be uploaded to Arweave via Bundlr. The song's metadata (title, price, author and download link) will be stored in a smart contract (in my case, deployed in Polygon).
